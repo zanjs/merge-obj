@@ -1,0 +1,11 @@
+{
+    "name": "merge-obj",
+    "version": "0.0.1",
+    "description": "Merge two objects and concatenate arrays that are values of the same object key",
+    "main": "./merge.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Julian",
+    "license": "MIT"
+}
