@@ -1,5 +1,7 @@
 # merge-obj
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/merge-obj.svg)](https://greenkeeper.io/)
+
 Merge two objects and concatenate arrays that are values of the same object key
 
 ### install
